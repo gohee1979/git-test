@@ -5,4 +5,4 @@ jobs:
        - image: circleci/python:3.6
      steps:
        - checkout
-       - run: print("hello world")
+       - run: print("hello")
